@@ -1,0 +1,4 @@
+interface IWeaponControllble
+{
+    void Attack();
+}
